@@ -23,4 +23,5 @@ namespace TodoApi
                     webBuilder.UseStartup<Startup>();
                 });
     }
+#pragma warning restore CS1591
 }

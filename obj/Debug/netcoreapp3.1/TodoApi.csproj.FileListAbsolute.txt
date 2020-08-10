@@ -146,4 +146,11 @@ D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAn
 D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Desktop\HIT339\Repository\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CoreCompileInputs.cache
+D:\Desktop\HIT339\Repository\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Desktop\HIT339\Repository\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\HIT339\Repository\TodoApi\bin\Debug\netcoreapp3.1\TodoApi.xml
+D:\Desktop\HIT339\Repository\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.xml
